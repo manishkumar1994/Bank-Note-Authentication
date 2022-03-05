@@ -21,7 +21,7 @@ Created flask app
 ### Step 3: 
 Tested in post man app 
 ### step 4
-Created a front end using a flassger library.
+Created a front end UI using a flassger library.
 ### Step 4: 
 1) Write a docker file
 2) Building the docker image
